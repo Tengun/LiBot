@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>LiBot</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>Bolston</word>
+            <word>CSS</word>
+            <word>Denson</word>
+            <word>Dropdown</word>
+            <word>Duckett</word>
+            <word>HND</word>
+            <word>htm</word>
+            <word>ITC</word>
+            <word>Javascript</word>
+            <word>Jepson</word>
+            <word>Jumpstart</word>
+            <word>JustIn</word>
+            <word>LiBot</word>
+            <word>md</word>
+            <word>Navbar</word>
+            <word>nd</word>
+            <word>PHP</word>
+            <word>Ptec</word>
+            <word>Punny</word>
+            <word>SignIn</word>
+            <word>SignOut</word>
+            <word>SignUp</word>
+            <word>th</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

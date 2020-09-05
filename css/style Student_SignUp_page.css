@@ -1,0 +1,46 @@
+.navbar-brand{
+    cursor: default;
+}
+body {
+    height: 100%;
+}
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 150px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 0px;
+    margin: auto;
+
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+.jumbotron{
+    background: #8e8e8e;
+    border-radius: 0px 0px 30px 30px;
+}
+.btn-outline-success{
+    color: white;
+}
+.btn-outline-success:hover{
+    color: white;
+    background: #babcbb;
+}
+.alert{
+    margin-top: -30px;
+}

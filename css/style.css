@@ -1,0 +1,13 @@
+*{
+
+}
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+nav a{
+    cursor: default;
+}
+.jumbotron{
+    background-color: #217290;
+}
